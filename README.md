@@ -1,5 +1,3 @@
-# Personal-finance-tracker-project-
-python project on personal finance tracker
 # 💰 Personal Finance Tracker Management System
 
 ## 📌 Overview
